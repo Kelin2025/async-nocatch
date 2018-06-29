@@ -1,6 +1,6 @@
 {
   "name": "async-nocatch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "No need to use try/catch to handle your async/await functions",
   "main": "index.js",
   "repository": "https://github.com/Kelin2025/async-nocatch",
